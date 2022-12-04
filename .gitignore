@@ -1,0 +1,6 @@
+/MediaAritimetica.sln
+.idea
+*/obj
+*/Properties
+*/bin
+*.csproj
